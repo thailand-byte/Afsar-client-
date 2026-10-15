@@ -1,0 +1,6 @@
+{
+  "name": "Ritik sir - VIP Telegram Channel",
+  "description": "Official Telegram channel redirect landing page for Ritik sir with 10-second countdown and instant access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
